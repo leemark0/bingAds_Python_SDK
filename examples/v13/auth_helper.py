@@ -3,9 +3,9 @@ import webbrowser
 from time import gmtime, strftime
 from suds import WebFault
 
-from bingads.service_client import ServiceClient
-from bingads.authorization import *
-from bingads.v13 import *
+from /content/bingAds_Python_SDK/bingads/service_client import ServiceClient
+from /content/bingAds_Python_SDK/bingads/authorization import *
+from /content/bingAds_Python_SDK/bingads/v13 import *
 
 from output_helper import output_bing_ads_webfault_error, output_webfault_errors, output_status_message
 
